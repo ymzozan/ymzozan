@@ -1,36 +1,28 @@
-# Hi, I'm Ozan 👋
+# Ozan Yılmaz
 
-**Full-Stack Developer** building AI-powered products and SaaS tools.
+Full-stack developer based in Istanbul. I spend most of my time building Shopify apps and web products, usually at the intersection of e-commerce and practical AI.
 
----
+At [codeimo](https://codeimo.com) we've shipped four apps on the Shopify App Store:
 
-### 🚀 What I'm Building
+- **[Piks](https://apps.shopify.com/piks)** — AI product image and video generation for merchants. Built for Shopify certified, 4.9★.
+- **[VBundles](https://apps.shopify.com/v-bundle-app-upsell-cross-sell)** — product bundling and upsell app. Co-developing with my partner Salih, 5★.
+- **[Wapp](https://apps.shopify.com/wapp-whatsapp-chat-button)** — WhatsApp chat button with abandoned cart notifications.
+- **[COS](https://apps.shopify.com/cos-sticky-add-to-cart-buy-now)** — sticky Add to Cart and Buy Now bar.
 
-- **[SORS](https://sors-kuyumcu.vercel.app)** — B2B jewelry industry platform (Next.js 16, PostgreSQL, Prisma, Vercel)
-- **[Shopify Pre-Order App](https://github.com/ymzozan/shopify-preorder-app)** — Shopify app for pre-order management (Remix, Polaris, GraphQL)
-- Exploring AI-native SaaS products
+Outside the Shopify ecosystem, I've been building [SORS](https://sors-kuyumcu.vercel.app) — a B2B platform for the jewelry trade in Turkey. It connects wholesale suppliers with shop owners and handles procurement workflows that are still done over WhatsApp in most of the industry.
 
-### 🛠 Tech Stack
+**Currently working on:**
 
-```
-Frontend    →  React, Next.js, TypeScript, Tailwind CSS
-Backend     →  Node.js, Prisma, PostgreSQL, REST & GraphQL
-Shopify     →  Remix, Polaris, App Bridge, Admin API
-AI / LLM    →  OpenAI API, Gemini, prompt engineering
-Deploy      →  Vercel, Railway, GitHub Actions
-```
+- [StockMind AI](https://github.com/ymzozan/stockmind-ai) — back in stock alerts, waitlists, preorders and AI demand forecasting for Shopify merchants. This evolved from an earlier pre-order prototype.
+- VBundles v2 with Salih — new bundle builder with AI product recommendations.
+- Mobile Tactics — a turn-based strategy game for mobile, early concept stage.
 
-### 📌 Featured Projects
+**Stack:**
 
-| Project | Stack | Live |
-|---------|-------|------|
-| [SORS — B2B Jewelry Platform](https://github.com/ymzozan/business-establish-helper) | Next.js · TypeScript · PostgreSQL | [sors-kuyumcu.vercel.app](https://sors-kuyumcu.vercel.app) |
-| [Shopify Pre-Order App](https://github.com/ymzozan/shopify-preorder-app) | Remix · Polaris · Prisma · GraphQL | [github.com/ymzozan/shopify-preorder-app](https://github.com/ymzozan/shopify-preorder-app) |
-
-### 📊 GitHub Stats
-
-![Ozan Yılmaz GitHub Stats](https://github-readme-stats.vercel.app/api?username=ymzozan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+TypeScript, React, Next.js, Node.js, Prisma, PostgreSQL on the web side.
+React Router, Polaris, App Bridge, Shopify GraphQL Admin API on the Shopify side.
+Occasionally React Native when building mobile things.
 
 ---
 
-📍 Istanbul, Turkey &nbsp;|&nbsp; 🌐 [codeimo.com](https://www.codeimo.com) &nbsp;|&nbsp; 📬 ozan@codeimo.com
+[codeimo.com](https://codeimo.com) · ozan@codeimo.com
