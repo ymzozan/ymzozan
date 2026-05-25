@@ -7,14 +7,14 @@
 ### 🚀 What I'm Building
 
 - **[SORS](https://sors-kuyumcu.vercel.app)** — B2B jewelry industry platform (Next.js 16, PostgreSQL, Prisma, Vercel)
-- **Pre-Order App** — Shopify app for pre-order management (Remix, Polaris, GraphQL)
+- **[Shopify Pre-Order App](https://github.com/ymzozan/shopify-preorder-app)** — Shopify app for pre-order management (Remix, Polaris, GraphQL)
 - Exploring AI-native SaaS products
 
 ### 🛠 Tech Stack
 
 ```
 Frontend    →  React, Next.js, TypeScript, Tailwind CSS
-Backend      →  Node.js, Prisma, PostgreSQL, REST & GraphQL
+Backend     →  Node.js, Prisma, PostgreSQL, REST & GraphQL
 Shopify     →  Remix, Polaris, App Bridge, Admin API
 AI / LLM    →  OpenAI API, Gemini, prompt engineering
 Deploy      →  Vercel, Railway, GitHub Actions
@@ -25,7 +25,7 @@ Deploy      →  Vercel, Railway, GitHub Actions
 | Project | Stack | Live |
 |---------|-------|------|
 | [SORS — B2B Jewelry Platform](https://github.com/ymzozan/business-establish-helper) | Next.js · TypeScript · PostgreSQL | [sors-kuyumcu.vercel.app](https://sors-kuyumcu.vercel.app) |
-| Shopify Pre-Order App | Remix · Polaris · GraphQL | Coming soon |
+| [Shopify Pre-Order App](https://github.com/ymzozan/shopify-preorder-app) | Remix · Polaris · Prisma · GraphQL | [github.com/ymzozan/shopify-preorder-app](https://github.com/ymzozan/shopify-preorder-app) |
 
 ### 📊 GitHub Stats
 
