@@ -1,8 +1,10 @@
 # Ozan Yılmaz
 
-Full-stack developer based in Istanbul. I spend most of my time building Shopify apps and web products, usually at the intersection of e-commerce and practical AI.
+Full-stack developer based in Istanbul. I spend most of my time building Shopify apps and web products at the intersection of e-commerce and practical AI.
 
-At [codeimo](https://codeimo.com) we've shipped four apps on the Shopify App Store:
+**Previously** co-founded [Verbiai](https://verbiai.com) — an AI-powered SEO platform. We exited at $185K. That experience shaped how I think about building SaaS: distribution matters more than the product itself.
+
+[codeimo](https://codeimo.com) is the company I run now. We're a Yıldız Technopark R&D company — our UK entity was [featured by Yıldız Technopark](https://www.yildizteknopark.com.tr/haberler/yapay-zeka-destekli-seo-cozumu-kuresel-pazara-acildi.html) when we expanded to global markets with AI-powered SEO tooling. We've shipped four apps on the Shopify App Store:
 
 - **[Piks](https://apps.shopify.com/piks)** — AI product image and video generation for merchants. Built for Shopify certified, 4.9★.
 - **[VBundles](https://apps.shopify.com/v-bundle-app-upsell-cross-sell)** — product bundling and upsell app. Co-developing with my partner Salih, 5★.
@@ -13,9 +15,9 @@ Outside the Shopify ecosystem, I've been building [SORS](https://sors-kuyumcu.ve
 
 **Currently working on:**
 
-- [StockMind AI](https://github.com/ymzozan/stockmind-ai) — back in stock alerts, waitlists, preorders and AI demand forecasting for Shopify merchants. This evolved from an earlier pre-order prototype.
+- [StockMind AI](https://github.com/ymzozan/stockmind-ai) — back in stock alerts, waitlists, preorders and AI demand forecasting for Shopify merchants.
 - VBundles v2 with Salih — new bundle builder with AI product recommendations.
-- Mobile Tactics — a turn-based strategy game for mobile, early concept stage.
+- [World War 2026](https://github.com/ymzozan/world-war-2026) — geopolitical strategy simulation for mobile, early concept stage.
 
 **Stack:**
 
