@@ -6,7 +6,7 @@ With deep technical expertise in e-commerce software, SEO infrastructure, and di
 
 To scale our proven Turkish SaaS portfolio globally, we established our official UK subsidiary, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD**, located at 1st Floor, 31-33 High Holborn, London WC1V 6AX (Company number: 17190235). Under the Yıldız Technopark UTPO market-entry framework, we are preparing to expand our operations to the UK. As part of this international transition, our parent company will be exhibiting our core software infrastructure at **London Tech Week 2026** within the Yıldız Technopark pavilion, consolidating our engineering strength with global market deployment.
 
-As a Technical Founder, I direct the engineering workflows and have shipped multiple production-grade applications directly to the Shopify App Store, all conceived and developed within our core R&D pipeline:
+As a Technical Founder, I direct the engineering workflows and have shipped multiple production-grade applications directly to the Shopify App Store, all conceived and developed within our core R&D pipeline managed under our [codeimo-team](https://github.com/codeimo-team) organization:
 
 * **[VBundles](https://apps.shopify.com/bundle-volume-discount)** — A high-volume product bundling, quantity breaks, and upsell engine optimized for critical frontend loading performance and high-traffic concurrency.
 * **[Piks](https://apps.shopify.com/piks-ai-product-photo-video)** — An AI-driven product image and video generation platform that automates high-fidelity creative asset production for e-commerce merchants.
@@ -32,6 +32,7 @@ As a Technical Founder, I direct the engineering workflows and have shipped mult
 I am a hands-on technical founder committed to bridging robust software engineering with global SaaS scalability. Currently based in Istanbul, I am actively structuring Codeimo's international expansion and scaling our product infrastructure to support cross-border e-commerce merchants and enterprise automation.
 
 * **Corporate Website:** [codeimo.com](https://codeimo.com)
+* **GitHub Organization:** [github.com/codeimo-team](https://github.com/codeimo-team)
 * **Shopify Partner Profile:** [apps.shopify.com/partners/codeimo](https://apps.shopify.com/partners/codeimo)
 * **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/ozanymz/)
 * **Direct Inquiries:** [ozan@codeimo.com](mailto:ozan@codeimo.com)
