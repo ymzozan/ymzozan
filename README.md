@@ -1,10 +1,10 @@
 # Ozan Yılmaz
 
-Technical Founder at **CODEİMO SAAS BİLİŞİM VE TİCARET A.Ş.** (Istanbul, Turkey) & Managing Director at [Codeimo UK](https://codeimo.com) (**CODEIMO SAAS SOFTWARE SOLUTIONS LTD**, London). I architect and build AI-powered Shopify applications and SaaS platforms engineered for the global e-commerce ecosystem. My work focuses on scalable full-stack architectures, high-performance database design, and executing practical AI workflows that solve operational bottlenecks for merchants.
+Technical Founder at **CODEİMO SAAS BİLİŞİM VE TİCARET A.Ş.** (Istanbul, Turkey) — our primary R&D powerhouse where all software assets are engineered — and Managing Director at our UK expansion subsidiary, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD** (London, UK). I architect and build AI-powered Shopify applications and SaaS platforms engineered for the global e-commerce ecosystem. My work focuses on scalable full-stack architectures, high-performance database design, and executing practical AI workflows that solve operational bottlenecks for merchants.
 
 With deep technical expertise in e-commerce software, SEO infrastructure, and digital marketing systems dating back to 2009, I pivoted my core focus toward scalable SaaS engineering upon founding Codeimo in 2023. Operating from our primary research and development headquarters within the Yıldız Technopark ecosystem in Turkey, I led the technical architecture of VerbiAI (later rebranded as [Plug-in AI SEO Optimizer](https://apps.shopify.com/plug-in-ai-seo-optimizer)), an AI-driven SEO automation platform. In January 2025, this product was successfully acquired by a US-based investment group for $185,000, validating our core engineering pipeline and cross-border commercial execution (Read the [Official Acquisition News](https://www.yildizteknopark.com.tr/haberler/yapay-zeka-destekli-seo-cozumu-kuresel-pazara-acildi.html)).
 
-To scale our proven SaaS portfolio globally, our Turkish entity established its official UK subsidiary, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD**, located at 1st Floor, 31-33 High Holborn, London WC1V 6AX (Company number: 17190235). As part of this international expansion, our parent company is official expansion track under the Yıldız Technopark UTPO programme and will be exhibiting our core technologies at **London Tech Week 2026** within the Yıldız Technopark pavilion.
+To scale our proven Turkish SaaS portfolio globally, we established our official UK subsidiary, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD**, located at 1st Floor, 31-33 High Holborn, London WC1V 6AX (Company number: 17190235). Under the Yıldız Technopark UTPO market-entry framework, we are preparing to expand our operations to the UK. As part of this international transition, our parent company will be exhibiting our core software infrastructure at **London Tech Week 2026** within the Yıldız Technopark pavilion, consolidating our engineering strength with global market deployment.
 
 As a Technical Founder, I direct the engineering workflows and have shipped multiple production-grade applications directly to the Shopify App Store, all conceived and developed within our core R&D pipeline:
 
@@ -27,6 +27,11 @@ As a Technical Founder, I direct the engineering workflows and have shipped mult
 * **E-commerce Infrastructure:** Shopify Polaris, App Bridge, Shopify GraphQL Admin API, Embedded App Extensions
 * **Mobile Engineering:** React Native (utilized for selective cross-platform micro-SaaS modules)
 
----
+## Professional Biography & Contact
 
-[codeimo.com](https://codeimo.com) · [ozan@codeimo.com](mailto:ozan@codeimo.com) · [Shopify Partner Profile](https://apps.shopify.com/partners/codeimo) · [LinkedIn](https://www.linkedin.com/in/ozanymz/)
+I am a hands-on technical founder committed to bridging robust software engineering with global SaaS scalability. Currently based in Istanbul, I am actively structuring Codeimo's international expansion and scaling our product infrastructure to support cross-border e-commerce merchants and enterprise automation.
+
+* **Corporate Website:** [codeimo.com](https://codeimo.com)
+* **Shopify Partner Profile:** [apps.shopify.com/partners/codeimo](https://apps.shopify.com/partners/codeimo)
+* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/ozanymz/)
+* **Direct Inquiries:** [ozan@codeimo.com](mailto:ozan@codeimo.com)
