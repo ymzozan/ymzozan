@@ -21,6 +21,12 @@ As a Technical Founder, I direct the engineering workflows and have shipped mult
 * **VBundles v2** — Re-architecting our core bundling engine to support algorithmic AI-powered product recommendations and headless checkout integrations.
 * **Technical Notes** — Compiling technical performance case studies regarding Shopify app extensions, GraphQL Admin API optimizations, and micro-SaaS infrastructure patterns.
 
+## Civic Technology & Social Impact
+
+Beyond the commercial e-commerce domain, I apply the same engineering discipline to civic technology and sustainability — building products that turn national social initiatives into measurable, data-driven engagement.
+
+* **[Sıfır Atık Hub](https://github.com/ymzozan/sifir-atik-hub)** — Designed and engineered an AI-powered, gamified zero-waste platform for schools, built as a working prototype presented to the **Sıfır Atık Vakfı (Zero Waste Foundation)**. The product applies camera-based waste recognition, real-time environmental impact analytics (CO₂ saved, recycling, reforestation), and inter-school gamification — leagues with promotion/relegation, sports tournaments and awareness quizzes — to translate a national sustainability programme into measurable youth participation. Architected end-to-end with Next.js, TypeScript and Tailwind CSS. ([Live demo](https://sifir-atik-proje.vercel.app))
+
 ## Technical Stack
 
 * **Core Backend & Frontend:** TypeScript, Node.js, React, Next.js, Prisma, PostgreSQL
