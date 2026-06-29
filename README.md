@@ -1,5 +1,7 @@
 # Ozan Yılmaz
 
+> **Technical Founder building AI-powered SaaS & civic-tech products** — from shipped Shopify apps (with a $185K exit) to a national zero-waste platform.
+
 Technical Founder at **CODEİMO SAAS BİLİŞİM VE TİCARET A.Ş.** (Istanbul, Turkey) — our primary R&D powerhouse where all software assets are engineered — and Managing Director at our UK expansion subsidiary, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD** (London, UK). I architect and build AI-powered Shopify applications and SaaS platforms engineered for the global e-commerce ecosystem. My work focuses on scalable full-stack architectures, high-performance database design, and executing practical AI workflows that solve operational bottlenecks for merchants.
 
 With deep technical expertise in e-commerce software, SEO infrastructure, and digital marketing systems dating back to 2009, I pivoted my core focus toward scalable SaaS engineering upon founding Codeimo in 2023. Operating from our primary research and development headquarters within the Yıldız Technopark ecosystem in Turkey, I led the technical architecture of VerbiAI (later rebranded as [Plug-in AI SEO Optimizer](https://apps.shopify.com/plug-in-ai-seo-optimizer)), an AI-driven SEO automation platform. In January 2025, this product was successfully acquired by a US-based investment group for $185,000, validating our core engineering pipeline and cross-border commercial execution (Read the [Official Acquisition News](https://www.yildizteknopark.com.tr/haberler/yapay-zeka-destekli-seo-cozumu-kuresel-pazara-acildi.html)).
