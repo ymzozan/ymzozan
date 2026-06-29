@@ -6,7 +6,7 @@ Technical Founder at **CODEİMO SAAS BİLİŞİM VE TİCARET A.Ş.** (Istanbul, 
 
 With experience in e-commerce software, SEO and digital-marketing systems dating back to 2009, I focused on product-led SaaS engineering when I founded Codeimo in 2023, operating from the Yıldız Technopark ecosystem. I led the technical architecture of VerbiAI (later rebranded as [Plug-in AI SEO Optimizer](https://apps.shopify.com/plug-in-ai-seo-optimizer)), an AI-driven SEO automation app. In January 2025 the product was acquired by a US-based investment group for $185,000 ([acquisition news](https://www.yildizteknopark.com.tr/haberler/yapay-zeka-destekli-seo-cozumu-kuresel-pazara-acildi.html)).
 
-To take the portfolio international we established our UK subsidiary, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD** (1st Floor, 31-33 High Holborn, London WC1V 6AX · Company no. 17190235), and we are preparing to exhibit at **London Tech Week 2026** within the Yıldız Technopark pavilion under the UTPO market-entry framework.
+To take the portfolio international we established our **active UK subsidiary**, **CODEIMO SAAS SOFTWARE SOLUTIONS LTD** (1st Floor, 31-33 High Holborn, London WC1V 6AX · Company no. 17190235). In 2026 we **exhibited at London Tech Week** within the Yıldız Technopark pavilion under the UTPO market-entry framework.
 
 ## Shipped products — Shopify App Store
 
