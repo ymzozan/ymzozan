@@ -42,3 +42,5 @@ I am a hands-on technical founder committed to bridging robust software engineer
 * **Shopify Partner Profile:** [apps.shopify.com/partners/codeimo](https://apps.shopify.com/partners/codeimo)
 * **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/ozanymz/)
 * **Direct Inquiries:** [ozan@codeimo.com](mailto:ozan@codeimo.com)
+
+<!-- profile -->
